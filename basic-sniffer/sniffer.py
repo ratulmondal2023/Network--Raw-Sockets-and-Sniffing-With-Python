@@ -23,4 +23,4 @@ if os.name == 'nt':
     sniffer.ioctl(socket.SIO_RCVALL, socket.RCVALL_OFF)
 
 if __name__ == '__main__':
-    main()    
+    main()
